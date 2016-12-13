@@ -1,4 +1,4 @@
-Bokeh in IPython Notebook
+Bokeh in IPython Notebook (TEST)
 ===============================
 
 Welcome to [Bokeh](http://bokeh.pydata.org/) in IPython Notebook!
